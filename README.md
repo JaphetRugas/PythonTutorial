@@ -71,3 +71,7 @@ PythonTutorial/
     ├── ListsPractice.py                  # Practice scripts for lists
     ├── FunctionsPractice.py              # Practice scripts for functions
     └── OOPPractice.py                    # Practice scripts for object-oriented programming
+
+## Acknowledgements
+
+- This project follows a series of tutorials by [SDPT Solutions](https://www.youtube.com/watch?v=UBZs0-gUZsU&list=PLVnJhHoKgEmpbmB-Lrb2m4wwq5IPgLHnG). You can find their tutorials [here](https://www.youtube.com/channel/UC0D9xDkX5ZZl8e8wmKHSFMA).
